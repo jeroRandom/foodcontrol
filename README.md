@@ -2,6 +2,8 @@
 
 Sistema web académico para administrar un restaurante ficticio. Está construido con **HTML5, CSS3 y JavaScript**, sin backend ni bases de datos remotas. La información se guarda en el **localStorage** del navegador.
 
+> **Demo en línea:** [jerorandom.github.io/foodcontrol](https://jerorandom.github.io/foodcontrol/) — usuario `admin`, contraseña `admin123`.
+
 > **Aviso académico:** el inicio de sesión, los pagos y los comprobantes son simulados. Este proyecto no debe utilizarse como sistema de seguridad ni en un restaurante real.
 
 ## Acceso de demostración
