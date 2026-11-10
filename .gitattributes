@@ -1,0 +1,14 @@
+# Normalizar finales de linea: Git guarda LF y decide al descargar
+* text=auto
+
+# Archivos de Windows que requieren CRLF
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binarios
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary

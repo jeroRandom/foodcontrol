@@ -1,0 +1,21 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores y IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Artefactos locales de Vercel (al usar la CLI)
+.vercel/
+
+# Node (por si se usa la CLI de Vercel)
+node_modules/
